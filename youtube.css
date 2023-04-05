@@ -255,3 +255,32 @@ button {
     font-size: 10px;
     color: rgb(213, 217, 220);
 }
+
+.box2 {
+    width: 160px;
+    height: 373px;
+    display: inline-block;
+    margin: 20px 10px;
+}
+
+.box2 img {
+    width: 160px;
+    height: 283px;
+    border-radius: 10px;
+    border: 1px solid #888;
+}
+
+.content_text2 {
+    width: 160px;
+    height: 90px;
+}
+
+.content_text2 h4 {
+    color: white;
+    font-size: 15px;
+}
+
+.content_text2 p {
+    font-size: 10px;
+    color: rgb(213, 217, 220);
+}
